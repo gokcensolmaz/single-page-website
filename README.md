@@ -1,6 +1,6 @@
 # website
 
-
+## BASIC HTML TAGS: 
     *BASIC TAGS*
     <html></html>        :    Creates an html file
     <head></head>        :    Defines title and the other unvisible properties
@@ -24,3 +24,28 @@
 
     *LINK TAGS*
     <a href="URL" target="_blank"> :   Specifies where the linked document will open when the link is clicked
+
+## BASIC CSS TAGS:
+    --GENERAL FORMATTING--
+    width                   : Defines the width of objects
+    height                  : Defines the height of objects
+    border                  : Border around objects
+    margin                  : Determines the space between the objects' edge line and outward.
+    padding                 : Inward with the edge line of objects determines the gap.
+    background              : Determines the background of objects. Color or visual can be used.
+
+    --TEXTS--
+    font-family             : Determines the font used.
+    font-size               : Determines the font size.
+    color                   : Determines the text color.
+    font-weight             : Determines the thickness of the texts. Bold, light etc.
+    font-style              : Determines whether the text is italicized.
+    text-decoration         : Sets various effects on text.
+    text-align              : Determines the alignment of the texts.(left, right, center, justify)
+    line-height             : Space between lines of text determines.
+
+    --POSITION--
+    position                : Places objects on the screen.(absolute, fixed, relative)
+    float                   : Stacks objects horizontally.(left, right)
+    top, left, right, bottom: Determines the position of objects
+
