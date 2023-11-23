@@ -1,4 +1,8 @@
-# website
+# Single Page Website
+You can access the website via link:
+https://single-page-website-egs.vercel.app/
+
+In this project, I designed a single-page website using HTML and CSS basic tags.
 
 ## BASIC HTML TAGS: 
     *BASIC TAGS*
