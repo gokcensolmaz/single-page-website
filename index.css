@@ -1,0 +1,25 @@
+div {}
+
+h1 {
+    color: red;
+    font-size: 2em;
+    margin: 0;
+    margin-left: 10px;
+}
+
+.blueTitle{
+    color: blue;
+    font-size: 2em;
+    margin: 0;
+    margin-left: 10px;
+}
+ #page-title{
+    color: blue;
+    font-size: 3em;
+    margin: 0;
+    margin-left: 10px;
+ }
+
+p {
+    line-height: 140%;
+}
